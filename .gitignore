@@ -1,0 +1,13 @@
+# Ambiente virtual
+venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Arquivos e pastas do Docker
+docker-compose.yml
+Dockerfile
+.env
+*.log
+*.pid
