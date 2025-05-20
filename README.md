@@ -10,3 +10,4 @@ Repositório destinado às tarefas da disciplina Projeto e Administração de Ba
 ## Tarefas
 
 - [Tarefa 01](tarefas/t01/tarefa01.md)
+- [Tarefa 02](tarefas/orm/tarefa-orm.md)
